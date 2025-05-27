@@ -1,0 +1,50 @@
+Q:1) Breck down the URLs listed below.
+
+https://www.flipkart.com/
+.com - TLD top level domain 
+flipkart - domain (name)
+www. - subdomain
+https:// - hyper text transfer security (protocol)
+
+
+https://www.irctc.co.in/
+.co.in/ - TLD top level domain
+irctc - domain (name)
+www. - subdomain
+https:// - hyper text transfer security (protocol)
+
+https://www.allegro.pl/
+.pl/ - TLD top level domain
+allegro - domain (name)
+www.- subdomain
+https:// - hyper text transfer security (protocol)
+
+https://www.johnlewispartnership.co.uk/
+.co.uk/ - TLD top level domain
+johnlewispartnership - domain (name)
+www.- subdomain
+https:// - hyper text transfer security (protocol)
+
+
+Q:2) What is HTTPS/SSL update?
+
+An HTTPS/SSL update generally refers to improvements, changes, or upgrades to the HTTPS (HyperText Transfer Protocol Secure) and SSL/TLS (Secure Sockets Layer / Transport Layer Security) protocols or configurations.
+HTTPS: A protocol used for transferring data between a web browser and a website.
+Example: http://www.example.com
+Not secure as data is sent in plain text.
+SSL: A security technology that encrypts data for safe transmission.
+When SSL is enabled, HTTP becomes HTTPS (https://).
+Example: https://www.example.com
+Ensures data privacy and security by encrypting information.
+
+Q:3) List out 10 famous browsers used worldwide.
+1) Goggle chrome 
+2) Apple Safari
+3) Mozilla Fire
+4) Opera
+5) Samsung Internet
+6) Brave 
+7) Vivaldi
+8) UC Browser
+9) Tor Browser
+10)Microsoft Edge
