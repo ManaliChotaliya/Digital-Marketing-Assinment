@@ -1,0 +1,49 @@
+1.) What are the main factors that can affect PPC bidding?
+
+PPC bidding is influenced by how relevant your ads are, how many competitors are bidding for the same keywords, and the quality of your ad and landing page. Your bidding strategy, target audience, device type, and location also change the cost. Higher competition or poor-quality ads increase CPC, while high relevance and Quality Score reduce it.
+
+⭐ Quick Summary Table
+Factor	Impact on PPC Bidding
+Quality Score	Better score = lower CPC
+Competition	More competition = higher CPC
+Keyword Relevance	Relevant keywords cost less
+Bid Strategy	Smart or aggressive bids can raise CPC
+Device Targeting	CPC varies on mobile/desktop
+Audience Targeting	Narrow targeting increases cost
+Location	Big cities = higher CPC
+Time/Day	CPC changes by hour/season
+Ad Position	Higher position needs higher bid
+
+
+
+2.) How does a search engine calculate actual CPC?
+Actual CPC is the minimum amount you pay to beat the competitor below you, calculated using their Ad Rank divided by your Quality Score.
+Short Summary Table
+| Term               | Meaning                                                |
+| ------------------ | ------------------------------------------------------ |
+| **Actual CPC**     | The real amount you pay per click (not your max bid).  |
+| **Formula**        | Competitor’s Ad Rank ÷ Your Quality Score + ₹0.01      |
+| **Why it’s lower** | You only pay just enough to maintain your ad position. |
+| **Key Benefit**    | Higher Quality Score reduces cost.                     |
+
+
+
+3.) What is a quality score and why it is important for Ads?
+What is a Quality Score?
+
+Quality Score is Google’s rating (1–10) of how relevant and useful your ad, keyword, and landing page are to the user.
+A higher score means your ad is more aligned with what people are searching for.
+
+Why Is Quality Score Important for Ads? 
+Quality Score matters because it directly impacts how much you pay and how well your ads perform.
+Lower CPC: Higher Quality Score reduces your cost per click.
+Better Ad Position: Good scores help your ads rank higher.
+More Visibility: Ads appear more often and in better spots.
+Higher ROI: You get more results without increasing budget.
+Stronger Ad Rank: Even with a lower bid, you can beat competitors.
+
+
+
+4.) Create an ad for your website/ blog in Google Ads
+Google Display Ad Campaign Plan for TOPS Technologies (tops-int.com)
+
